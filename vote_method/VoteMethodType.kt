@@ -1,4 +1,4 @@
-package com.skram_master.enums.VoteMethod
+package com.skram_master.enums.vote_method
 
 enum class VoteMethodType {
     Fibonacci,
